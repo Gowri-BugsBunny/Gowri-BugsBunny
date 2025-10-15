@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I am Gowri
+
+** Aspiring QA | QE | SDET | GenAI Enthusiast 
+
+### Welcome to my github profile
 
 <!--
 **Gowri-BugsBunny/Gowri-BugsBunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
